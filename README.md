@@ -1,3 +1,11 @@
+## Completion of Task
+Please be informed that this repository was created to fulfill requirement of the course taken.
+* Each source code is associated with corresponding output in PNG format , ex. Plot1.r with Plot1.png
+* Each source code contains code to read data regardlress of if the data.frame already exist, as per requirement.
+* Output PNG is stored in top level folder in repository as per requirement.
+Thanks for evaluating the work done.
+Have a blessed day ahead!
+
 ## Introduction
 
 This assignment uses data from
